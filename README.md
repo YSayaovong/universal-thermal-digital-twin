@@ -84,9 +84,3 @@ All results will print to the console and generate plots automatically.
 -   Matplotlib for visualization
 
 ------------------------------------------------------------------------
-
-## 👤 Author
-
-**Yengkong V. Sayaovong**\
-Industrial Systems & Reliability Engineer\
-Mechanical Design • Software • Data • Automation
