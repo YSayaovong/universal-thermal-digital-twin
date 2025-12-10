@@ -50,27 +50,11 @@ thermal safety margin**.
 
 ------------------------------------------------------------------------
 
-## 📊 Example Results
+## 📊 Results
 
 ### Nominal Motor Thermal Response
 
-![Nominal Response](nominal_thermal_response.png)
-
-### Peak Temperature vs Load
-
-![Load Sensitivity](sensitivity_load.png)
-
-### Peak Temperature vs Cooling Efficiency
-
-![Cooling Sensitivity](sensitivity_cooling.png)
-
-### Peak Temperature vs Ambient Temperature
-
-![Ambient Sensitivity](sensitivity_ambient.png)
-
-### Overload Duration vs Peak Temperature
-
-![Overload Duration](overload_duration.png)
+![Nominal Response](assets/Figure_1.png)
 
 ------------------------------------------------------------------------
 
